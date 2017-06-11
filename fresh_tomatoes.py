@@ -18,8 +18,15 @@ main_page_head = '''
     <script src="https://netdna.bootstrapcdn.com/bootstrap/3.1.0/js/bootstrap.min.js"></script>
     <style type="text/css" media="screen">
         body {
-            padding-top: 80px;
+            padding-top: 100px;
+            background-color: black;
         }
+        h2 {
+            color: white;
+        }    
+        h2:hover {
+            color: grey;
+        }      
         #trailer .modal-dialog {
             margin-top: 200px;
             width: 640px;
@@ -40,7 +47,7 @@ main_page_head = '''
             padding-top: 20px;
         }
         .movie-tile:hover {
-            background-color: #EEE;
+            background-color: #0000FF;
             cursor: pointer;
         }
         .scale-media {
@@ -49,7 +56,7 @@ main_page_head = '''
         }
         .scale-media iframe {
             border: none;
-            height: 100%;
+            height: 50%;
             position: absolute;
             width: 100%;
             left: 0;
@@ -107,7 +114,7 @@ main_page_content = '''
       <div class="navbar navbar-inverse navbar-fixed-top" role="navigation">
         <div class="container">
           <div class="navbar-header">
-            <a class="navbar-brand" href="#">Fresh Tomatoes Movie Trailers</a>
+            <a class="navbar-brand" href="#">Omar Movie Trailers</a>
           </div>
         </div>
       </div>
