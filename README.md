@@ -1,6 +1,7 @@
 # Movie Trailer Website
 
-A Python project intiated by **Udacity** team within the course **Full Stack Web Developer**. Goal of project is to create a one page application which displays movie trailers.
+A Python project intiated by **Udacity** team within the course **Full Stack Web Developer**. 
+Goal of project is to create a one page application which displays movie trailers.
 
 ## Requirement
 To run this project you should have [python](https://www.python.org/downloads/) installed.
