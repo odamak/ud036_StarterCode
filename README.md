@@ -1,6 +1,6 @@
 # Movie Trailer Website
 
-A Python project intiated by **Udacity** team within the course **Full Stack Web Developer**. 
+A Python project intiated by **Udacity** team within the course **Full Stack Web Developer**.   
 **Movie Trailer Website** is a web application that displays trailer of selected movie in a web browser.
 
 ## Requirement
