@@ -9,8 +9,8 @@ To run this project you should have [python](https://www.python.org/downloads/) 
 ## Run
 Steps to run the app:
 1. Clone the repository to your local machine (or simply copy the files into one directory)
-2. Different options to run the file *entertainment_center.py*
-a. Open *entertainment_center.py* with *idle (python)* and click **run**
+2. Different options to run the file *entertainment_center.py*  
+a. Open *entertainment_center.py* with *idle (python)* and click **run**  
 b. If you're using linux, cd to the file directory and run the following command 
 ``` 
 python entertainment_center.py
